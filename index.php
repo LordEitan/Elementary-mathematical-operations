@@ -7,7 +7,7 @@
     $summ = $a1 + $b;
     $diff = $a1 - $b;
     $mult = $a1 * $b;
-    $dill = $a1/$b;    // task # 2 create two variables and perform mathematical operations
+    $dill = $a1/$b;    //  task # 2 create two variables and perform mathematical operations
     echo "$summ<br/>";
     echo "<br>";
     echo "$diff<br/>";
