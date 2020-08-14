@@ -1,4 +1,4 @@
- <?php
+<?php
     $a = 3; // task # 1 to assign the value a and display on the screen
     echo "$a<br/>";
     echo "<br>";
